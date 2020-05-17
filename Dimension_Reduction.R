@@ -1,5 +1,5 @@
 ## Dimensionality Reductino Practice
-## Dataset: Weahter Ankara (https://sci2s.ugr.es/keel/dataset.php?cod=41)
+## Dataset: Weahter Ankara (https://sci2s.ugr.es/keel/dataset.php?cod=41) 
 
 #packages
 #install.packages("GA")
