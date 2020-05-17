@@ -1,3 +1,6 @@
+## Multivariate Linear Regression
+## Dataset: House Sales in King Country, USA, kc_house_data.csv (https://www.kaggle.com/harlfoxem/housesalesprediction)
+
 #packages
 install.packages("lubridate")
 install.packages("pastecs")
