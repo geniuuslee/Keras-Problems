@@ -1,3 +1,8 @@
+## Logistic Regrssion
+## Dataset: Graduate Admissions (file name: Admission_Predict_Ver1.1.csv)
+## (https://www.kaggle.com/mohansacharya/graduate-admissions)
+
+
 #library
 install.packages("lubridate")
 install.packages("pastecs")
